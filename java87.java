@@ -1,4 +1,8 @@
 
+
+
+
+
 // Java program to illustrate creating an array
 // of integers,  puts some values in the array,
 // and prints each value to standard output.
@@ -7,10 +11,6 @@
  // initialize the first elements of the array
  // initialize the second elements of the array
   // accessing the elements of the specified array
-
-
-
-
 
 public class java87 {
     public static void main(String[] args) {
